@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning node.js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-[linkedin]: https://www.linkedin.com/in/monamustafa7/
+<!-- [linkedin]: https://www.linkedin.com/in/monamustafa7/ -->
 
 ### Languages and Tools:
 
