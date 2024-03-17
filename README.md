@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @monaamustafa
 - 👋 I’m Full stack developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning node.js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-<!-- [linkedin]: https://www.linkedin.com/in/monamustafa7/ -->
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning nest.js 
+- 📫 How to reach me <a mailto="monamustafa$1@gmail.com">email</a>
+- <!-- [linkedin]: https://www.linkedin.com/in/monamustafa7/ -->
 
 ### Languages and Tools:
 
