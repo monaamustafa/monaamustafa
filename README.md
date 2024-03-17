@@ -2,7 +2,7 @@
 - 👋 I’m Full stack developer
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning nest.js 
-- 📫 How to reach me <a mailto="monamustafa$1@gmail.com">email</a>
+- 📫 How to reach me <a href="mailto:monamustafa$1@gmail.com">email</a>
 - <!-- [linkedin]: https://www.linkedin.com/in/monamustafa7/ -->
 
 ### Languages and Tools:
